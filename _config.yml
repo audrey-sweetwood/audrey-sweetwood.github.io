@@ -1,0 +1,21 @@
+# Base configs
+baseurl: ""
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: ""
+
+# UI configs
+title: "Creations by Audrey"
+subtitle: "Images of my developed recipes"
+author: "Audrey Sweetwood"
+header:
+ title: "Creations"
+ subtitle: "by Audrey Sweetwood"
+footer:
+ name: "Audrey Sweetwood"
+ bio: "I am a Professional Chef, recipe developer, and nutrition expert.  I have worked for private clients, professional chefs, and Freshly Inc."
+ github: "Feel Free to reach out to me with the social links below!"
+web_design: "Jack Taubl"
+social_urls:
+  instagram: "https://www.instagram.com/audreysweetwood/?hl=en"
+  linkedin: "https://www.linkedin.com/in/audrey-sweetwood"
